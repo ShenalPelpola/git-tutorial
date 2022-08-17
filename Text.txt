@@ -7,3 +7,4 @@ ben and anne was here
 I'm working on this important bug
 I'm still working here
 Bug fix completed
+I'm still working on my feature
