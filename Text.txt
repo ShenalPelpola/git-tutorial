@@ -1,7 +1,7 @@
 Ben adds to the begining
 Hello world
 Hello from anne
-Hello from ben
+Hello from ben ---> this bug was fixed by anne
 Anne adds to the end
 ben and anne was here
 I'm working on this important bug
